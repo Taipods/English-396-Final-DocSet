@@ -1,5 +1,10 @@
 # How to use your own data?
-First it's important to learn the layout of the data. It is vital because any changes in the data will cause the program to not function properly.
+
+<span style="color: red; font-size:25px;"> Warning: CSV file top row's formatting has to be the same as the given csv otherwise the program will not function properly!
+</span>
+
+**Highlighted cells are the one needed to be preserved**
+![alt text](Pictures/Highlight.png)
 
 # Data Layout:
 
@@ -14,3 +19,20 @@ The dataset is contained inside the data folder of the git repository. The data 
 * **EP:** Stands for Extended Play  -> String ('EP' if yes, blank if no).
 * **Live:** Indicates if there was a live performance  -> String ('Live' if yes, blank if no).
 
+## Changing it to your data
+
+1. Open a folder with your own CSV file.
+
+2. In a seprate tab, navagate to your MyFavoriteAlbums folder.
+
+3. Click on the data folder in MyFavoriteAlbums folder.
+
+4. Delete or rename album-ranking.csv.
+
+5. Rename your own CSV file to album-ranking.csv.
+
+6. Drag and drop your CSV file into the data folder.
+
+7. Run the application.
+
+![alt text](Gifs/csvThang.mov.gif)

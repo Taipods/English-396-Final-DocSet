@@ -5,6 +5,8 @@
 2. Select "About This Mac" from the drop-down menu. Next to "Chip,"
 3. it will tell you whether it’s an M-series or Intel.
 
+![alt text](Gifs/chip.mov.gif)
+
 ## What does the line when comparing two bands/artists mean?
 The line represents the respective artist's/band's album ratings throughout the years. In other words, it tracks the artist’s critical reception over a period of time using the ratings of their albums and their release dates.
 

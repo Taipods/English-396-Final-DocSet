@@ -1,5 +1,5 @@
 # How to install the software?
-  To install MyFavoriteAlbums, you have to install R and Rsudio then install the source code itself and make install the packages that is required for the program.
+  To install MyFavoriteAlbums, you have to install R and Rsudio then install the source code itself and install the packages that is required for the program.
 
   [Go to Installing R and R studio](#Installing-R-and-R-studio)
 
