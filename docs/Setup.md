@@ -7,6 +7,8 @@
 
   [Go to Installing required Packages](#installing-packages)
 
+  [Go to Running the program](#Running-a-local-version-of-MyFavoriteAlbums)
+
 ## Installing R and R studio
 
 ### Part A: Install R
@@ -71,8 +73,24 @@ to fork the repo to have version control available.
 
 2. In the terminal area of Rstudio, Run the command: “install.packages("shiny")”.
 
-3. Following the installation instruction inside the terminal.
+3. Follow the installation instructions inside the terminal.
 
-4. repeat for install.packages("dplyr") and install.packages("ggplot2").
+4. repeat for install.packages("dplyr"), install.packages("ggplot2") and install.packages("DT").
 
 ![Alt text](Gifs/Install_packages.mov.gif)
+
+## **Running a local version of MyFavoriteAlbums**
+
+1. Open up Rstudio.
+
+2. Click File -> New project -> Exsting Directory.
+
+3. Load in your downloaded version of MyFavoriteAlbums.
+
+4. Open "app.r" file from MyFavoriteAlbums.
+
+5. On the top right, press run app.
+
+6. A new browser should show up.
+
+![Alt text](Gifs/App.mov.gif)

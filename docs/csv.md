@@ -1,4 +1,5 @@
-# How to use your own data.
+# How to use your own data?
+First it's important to learn the layout of the data. It is vital because any changes in the data will cause the program to not function properly.
 
 # Data Layout:
 
