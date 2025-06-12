@@ -1,1 +1,1 @@
-# MyFavoriteAlbum
+# **MyFavoriteAlbum**

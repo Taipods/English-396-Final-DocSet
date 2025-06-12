@@ -20,3 +20,6 @@ MyFavoriteAlbum has several pre existing tabs (buttons that take you to a differ
 - **Top Albums By year:** Allows you to see the top albums of the year
 - **Vinyl:** Allows you to see the creator’s vinyl or your own given that you are using your dataset.
 - **Band Comparison:** Comparing bands on a graph based on their rating and year.
+
+# Prerequisites
+While you don't need to be an expert coder, it's helpful if you have some experience with programming—especially if you've dabbled in languages like Python for data analysis to add your own analysis. MyFavoriteAlbum site is built using the basics of R, along with some helpful libraries like Shiny (for web apps), dplyr (for data manipulation), and ggplot2 (for creating beautiful graphics). However, if you want to look at your data info, it's not necessary to have coding experience at all.

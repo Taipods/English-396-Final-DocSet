@@ -7,4 +7,4 @@
   * [Codebase Overview](codeOverview.md)
   * [Creating new tabs](Tabs.md)
   * [API](API.md)
-* [FAQ](FAQ.md)
+* [FAQ (frequently asked questions)](FAQ.md)
