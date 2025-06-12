@@ -10,7 +10,7 @@
 # Overview
 The website and its associated files are stored in the git repository. A git repository is a folder that stores files online that has various features allowing for collaboration. It allows users to download their own very MyFavoriteAlbum and run it with their dataset. Users can modify the software to their needs for analysis.
 # Interface
-![alt text](pictures/Webpage.png)
+![alt text](Pictures/Webpage.png)
 
 ### Tabs
 MyFavoriteAlbum has several pre existing tabs (buttons that take you to a different page of the website) that you can analyze the music data from each tab.
